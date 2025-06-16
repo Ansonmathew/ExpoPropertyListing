@@ -22,6 +22,7 @@ const MAPPING = {
   'bookmark.fill': 'bookmark'
 } as IconMapping;
 
+
 /**
  * An icon component that uses native SF Symbols on iOS, and Material Icons on Android and web.
  * This ensures a consistent look across platforms, and optimal resource usage.
